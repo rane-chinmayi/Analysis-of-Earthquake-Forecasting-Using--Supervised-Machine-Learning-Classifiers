@@ -7,3 +7,6 @@ dataset
 precision, recall, Mathew’s coefficient and F1 score
 - To classify the earthquake instances from the dataset based on fatal, mild and
 moderate earthquakes
+
+
+![](graph.png)
