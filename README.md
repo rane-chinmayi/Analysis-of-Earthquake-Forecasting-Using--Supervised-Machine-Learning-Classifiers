@@ -1,5 +1,7 @@
 ## Analysis of Earthquake Forecasting Using Supervised Machine Learning Classifiers
 
+[Download PDF](Earthquake Analysis)
+
 Objectives:
 - To implement various supervised machine learning algorithms on an earthquake
 dataset
