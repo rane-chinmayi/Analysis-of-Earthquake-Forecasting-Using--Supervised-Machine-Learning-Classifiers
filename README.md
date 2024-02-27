@@ -1,6 +1,6 @@
 ## Analysis of Earthquake Forecasting Using Supervised Machine Learning Classifiers
 
-[Download PDF](Earthquake Analysis)
+Here is a detailed summary of the project -- [Download PDF](earthquake_analysis)
 
 Objectives:
 - To implement various supervised machine learning algorithms on an earthquake
@@ -11,4 +11,4 @@ precision, recall, Mathew’s coefficient and F1 score
 moderate earthquakes
 
 
-![](graph.png)
+![](images/graph.png)
